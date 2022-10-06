@@ -1,0 +1,2 @@
+# Video-App
+pc端的微服务架构视频app，使用springcloud 、springboot、docker、RabbitMq、Vue以及redis等，它是一个简易的视频app模板，如果您现正在从事pc端视频app开发，那么这个模板能够帮助您实现快速开发；如果您正在学习springcloud、springboot那么它能够帮助您有更深的理解
