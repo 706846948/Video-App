@@ -36,3 +36,6 @@ elasticsearch            6.8.0               d0b291d7093b   3 years ago     895M
 # 数据库脚本
 压缩包内有对应sql脚本，下载压缩包解压将sql导入mysql数据即可
 
+# 视频展示地址
+https://www.bilibili.com/video/BV1fd4y1v7Dy?share_source=copy_web
+
