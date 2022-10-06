@@ -19,12 +19,19 @@ Nginx
 
 # docker容器版本
 REPOSITORY               TAG                 IMAGE ID       CREATED         SIZE
+
 mysql                    5.7                 c20987f18b13   9 months ago    448MB
+
 nacos/nacos-server       2.0.2               c8cd99bb135c   15 months ago   1.05GB
+
 rabbitmq                 3.7.28-management   f1a77cb119f4   2 years ago     180MB
+
 redis                    5.0.5               63130206b0fa   3 years ago     98.2MB
+
 kibana                   6.8.0               290cd245e908   3 years ago     761MB
+
 elasticsearch            6.8.0               d0b291d7093b   3 years ago     895MB
+
 
 # 数据库脚本
 压缩包内有对应sql脚本，下载压缩包解压将sql导入mysql数据即可
